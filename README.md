@@ -1,0 +1,1 @@
+This repository contains an example of an IndexOutOfRangeError in ActionScript and its solution. The bug occurs when attempting to access an array element with an index that is out of bounds. The solution demonstrates how to add error checking and handle the potential exception.  This is a common error, particularly when dealing with dynamic arrays or user input.
